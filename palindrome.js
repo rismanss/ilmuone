@@ -12,6 +12,3 @@ function isPalindrome(text) {
 }
 
 isPalindrome('Deleveled');
-
-
-Testing this is the
